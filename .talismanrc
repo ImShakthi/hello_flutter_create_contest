@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: .metadata
+  checksum: 3b45b1525e01ebb91744336efeda85407ca32fd26c9386c3da502a0993c77aeb
+  ignore_detectors: []
